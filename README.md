@@ -11,6 +11,14 @@ This is the working version of the Student Registration Application template.
 
 ### Executing program
 
+To ensure all packages are installed, cd into the top-level project folder, then run:
+
+```
+npm install
+```
+
+To execute the program, run:
+
 ```
 npm start
 ```
